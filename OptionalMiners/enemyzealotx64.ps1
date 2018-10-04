@@ -4,7 +4,7 @@ $Path = ".\Bin\NVIDIA-enemyzealot64121a\z-enemy.exe"
 $Uri = "http://nemos.dx.am/opt/nemos/z-enemy.1-21a-cuda9.2_x64.zip"
 
 $Commands = [PSCustomObject]@{
-"aeriumx" = " -i 20" #AeriumX(2080)
+#"aeriumx" = " -i 20" #AeriumX(2080dnf/x32 works fine)
 "bcd" = " -i 20" #Bcd(2080)
 #"hsr" = "" #Hsr
 #"phi" = "" #Phi
