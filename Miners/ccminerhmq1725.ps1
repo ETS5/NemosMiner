@@ -1,6 +1,6 @@
 if (!(IsLoaded(".\Include.ps1"))) {. .\Include.ps1; RegisterLoaded(".\Include.ps1")}
 
-$Path = ".\Bin\NVIDIA-Tpruvot23\ccminer.exe"
+$Path = ".\Bin\NVIDIA-ccminerhmq1725\ccminer.exe"
 $Uri = "https://github.com/nemosminer/ccminerx16r-x16s/releases/download/v0.5/ccminerx16rx16s32-bit.7z"
 
 $Commands = [PSCustomObject]@{
